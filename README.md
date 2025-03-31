@@ -1,3 +1,3 @@
-#Formation Git
+**Formation Git**
 
 Dans docs fichier html
